@@ -1,6 +1,7 @@
 # Cryptography
 
-1. Practical Cryptography Niels Ferguson, Bruce Schneier 
+1. Practical Cryptography Niels Ferguson, Bruce Schneier
+
 ![](https://images-na.ssl-images-amazon.com/images/I/41LLwfr27lL._SX397_BO1,204,203,200_.jpg)
 
 
